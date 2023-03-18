@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.DetailActivity">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/vp_img_product_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:background="#CABCBC" />
+
+    <me.relex.circleindicator.CircleIndicator
+        android:id="@+id/circle_indicator_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignBottom="@+id/vp_img_product_detail"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/txt_description_detail"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_above="@+id/ll_pay_detail"
+        android:layout_below="@+id/circle_indicator_detail"
+        android:padding="10dp"
+        android:text="Mổ tả sản phẩm" />
+
+    <LinearLayout
+        android:id="@+id/ll_pay_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <EditText
+            android:id="@+id/edt_total_detail"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_weight="6"
+            android:background="#EEEEEE"
+            android:drawableRight="@drawable/dong"
+            android:focusable="false"
+            android:hint="Thành tiền"
+            android:inputType="text"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" />
+        <Button
+            android:id="@+id/btn_add_detail"
+            android:layout_width="0dp"
+            android:textAllCaps="false"
+            android:textSize="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="3"
+            android:text="Thêm"
+            android:backgroundTint="@color/black"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

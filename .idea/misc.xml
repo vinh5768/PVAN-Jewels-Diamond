@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/booder.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/color_in_main.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/custom_editext.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/detail_fragment.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/ic_baseline.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/ic_baseline_email.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/ic_baseline_lock.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.21875" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/ic_baseline_store_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2203125" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/round_bg.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/round_border.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/drawable/wave.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/activity_account_detail.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/activity_contact.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/activity_report.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/activity_store_information.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/activity_test.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/activity_thank.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/cart_fragment.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/detail_fragment.xml" value="0.3484375" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/find_fragment.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/fragment_detail_fragment.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/fragment_home_farment.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/fragment_home_farment_list.xml" value="0.3484375" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/home_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/item_cart.xml" value="0.22" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/item_category.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/item_category_find.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/item_find.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/item_jewels.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/item_photo.xml" value="0.3484375" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/item_profile.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/layout/profile_fragment.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/menu/navigation.xml" value="0.3625" />
+        <entry key="..\:/Users/Toan/Dropbox/My PC (LAPTOP-BSLTDM6P)/Desktop/Workspace/PVAN Jewels &amp; Diamond/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.37864583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

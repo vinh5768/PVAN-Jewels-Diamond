@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cv_item_product"
+    android:layout_width="100dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="8dp"
+    android:layout_marginEnd="10dp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/img_product"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_baseline_search_24"
+            android:scaleType="fitCenter">
+
+        </ImageView>
+        <TextView
+            android:id="@+id/txt_product_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:textSize="13sp"
+            android:maxLines="1"
+            android:text="Dây chuyền bạc cá tính"
+            android:lines="1"
+            />
+        <TextView
+            android:id="@+id/txt_price"
+            android:layout_width="wrap_content"
+            android:maxLines="1"
+            android:padding="5dp"
+            android:textSize="13sp"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:textColor="#FF0000"
+            android:text="12312312"/>
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
